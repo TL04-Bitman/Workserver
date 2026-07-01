@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+.el-container {
+  min-height: 100vh;
+}
+
+.el-header {
+  background-color: #fff;
+  border-bottom: 1px solid #e4e7ed;
+}
+
+.el-main {
+  padding: 20px;
+}
+
+.el-footer {
+  background-color: #f5f7fa;
+  border-top: 1px solid #e4e7ed;
+}
